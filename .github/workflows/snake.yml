@@ -14,11 +14,11 @@ jobs:
         run: |
           DAY=$(TZ=Asia/Rangoon date +%u)
           if [ "$DAY" = "6" ] || [ "$DAY" = "7" ]; then
-            echo "SNAKE_COLOR=ef4444" >> "$GITHUB_ENV"
-            echo "SNAKE_DOTS=fee2e2,fecaca,fca5a5,f87171,ef4444" >> "$GITHUB_ENV"
+            echo "SNAKE_COLOR=%23ef4444" >> "$GITHUB_ENV"
+            echo "SNAKE_DOTS=%23fee2e2,%23fecaca,%23fca5a5,%23f87171,%23ef4444" >> "$GITHUB_ENV"
           else
-            echo "SNAKE_COLOR=3b82f6" >> "$GITHUB_ENV"
-            echo "SNAKE_DOTS=dbeafe,bfdbfe,93c5fd,60a5fa,3b82f6" >> "$GITHUB_ENV"
+            echo "SNAKE_COLOR=%233b82f6" >> "$GITHUB_ENV"
+            echo "SNAKE_DOTS=%23dbeafe,%23bfdbfe,%2393c5fd,%2360a5fa,%233b82f6" >> "$GITHUB_ENV"
           fi
       - name: Generate snake
         uses: Platane/snk@v3
