@@ -92,7 +92,7 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 
 ## Dragon & Fortune
 
-![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune-animated.svg)
+![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-flying-v3.gif)
 
 ---
 
