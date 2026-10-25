@@ -1,8 +1,14 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF4444,F59E0B,FBBF24&height=180&section=header&text=Aung%20Zay%20Ya%20Naing&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+
 # Hi, I'm Aung Zay Ya Naing
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Founder+of+Digital+Product+Myanmar;Building+digital+products+for+Myanmar;Python+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel)]
+🐉 🏮 福
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Founder+of+Digital+Product+Myanmar;Building+digital+products+for+Myanmar;Python+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel)]
 
 Founder of Digital Product Myanmar, building digital products, Telegram bots, and learning communities for Myanmar.
+
+---
 
 ## What I build
 
@@ -12,13 +18,23 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 - FocusTeenagersAcademy, courses for teenagers
 - LinkedIn Basic Starter Course
 
+---
+
+## Tools
+
+![Python](https://img.shields.io/badge/Python-EF4444?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=111827) ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EF4444?style=for-the-badge&logo=laravel&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=111827) ![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=white)
+
+---
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungzayyanaing&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungzayyanaing&show_icons=true&title_color=FBBF24&icon_color=EF4444&text_color=E5E7EB&bg_color=111827)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aungzayyanaing)
+![GitHub Streak](https://streak-stats.demolab.com?user=aungzayyanaing&background=111827&ring=EF4444&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E5E7EB&stroke=111827)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aungzayyanaing&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aungzayyanaing&layout=compact&title_color=FBBF24&text_color=E5E7EB&bg_color=111827)
+
+---
 
 ## Contribution Snake
 
@@ -27,6 +43,14 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output/github-snake.svg">
 </picture>
+
+---
+
+## 3D Contributions
+
+![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output/profile-3d-contrib/profile-green-animate.svg)
+
+---
 
 ## Connect
 
