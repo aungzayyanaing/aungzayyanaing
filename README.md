@@ -1,18 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF4444,F59E0B,FBBF24&height=180&section=header&text=Aung%20Zay%20Ya%20Naing&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Aung%20Zay%20Ya%20Naing&fontSize=42&fontColor=FBBF24&animation=fadeIn&fontAlignY=35)
 
 # Hi, I'm Aung Zay Ya Naing
-
-🐉 🏮 福
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Founder+of+Digital+Product+Myanmar;Building+digital+products+for+Myanmar;Python+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel)](https://git.io/typing-svg)
 
 Founder of Digital Product Myanmar, building digital products, Telegram bots, and learning communities for Myanmar.
-
----
-
-## 🐉 Fortune
-
-<p align="center">🐉 🏮 🧧 ![福](https://img.shields.io/badge/%E7%A6%8F-FBBF24?style=for-the-badge) 🧧 🏮 🐉</p>
 
 ---
 
@@ -50,7 +42,7 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 
 ## 3D Contributions
 
-![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-green-animate.svg)
+![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-red.svg)
 
 ---
 
@@ -61,6 +53,4 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 - Telegram: https://t.me/Thomaswayne2
 - Instagram: https://www.instagram.com/aungzayyanaing_2
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF4444,F59E0B,FBBF24&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=fadeIn)
