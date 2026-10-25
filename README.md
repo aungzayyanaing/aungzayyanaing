@@ -12,7 +12,7 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 
 ## 🐉 Fortune
 
-<p align="center">🐉 🏮 🧧 <font color="#FBBF24"><b>福</b></font> 🧧 🏮 🐉</p>
+<p align="center">🐉 🏮 🧧 ![福](https://img.shields.io/badge/%E7%A6%8F-FBBF24?style=for-the-badge) 🧧 🏮 🐉</p>
 
 ---
 
