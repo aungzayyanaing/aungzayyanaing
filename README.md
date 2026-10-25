@@ -4,10 +4,6 @@
 
 Founder of Digital Product Myanmar, building digital products, Telegram bots, and learning communities for Myanmar.
 
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aungzayyanaing&theme=github-compact)
-
 ## What I build
 
 - Digital Product Myanmar, an online store for digital products
