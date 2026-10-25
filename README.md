@@ -18,8 +18,6 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aungzayyanaing&layout=compact)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aungzayyanaing)
-
 ## Connect
 
 - Portfolio: https://aung-zay-ya-naing.vercel.app/
