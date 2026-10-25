@@ -46,6 +46,12 @@ Founder of Digital Product Myanmar, building digital products, Telegram bots, an
 
 ---
 
+## Dragon & Fortune
+
+![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune-animated.svg)
+
+---
+
 ## Connect
 
 - Portfolio: https://aung-zay-ya-naing.vercel.app/
