@@ -99,8 +99,17 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 ## Connect
 
 - Portfolio: https://aung-zay-ya-naing.vercel.app/
+- Facebook: https://www.facebook.com/share/1AWfFQ7VFk/
+- YouTube: https://www.youtube.com/@AungZayYaNaing2
+- Threads: https://www.threads.com/@aungzayyanaing_2
+- LinkedIn: https://www.linkedin.com/in/aung-zay-ya-naing-0016b33a7
+- GitHub: https://github.com/aungzayyanaing
 - Telegram: https://t.me/Thomaswayne2
 - Instagram: https://www.instagram.com/aungzayyanaing_2
+- Discord: aung_zay_ya_naing
+- WhatsApp: https://wa.me/959650023587
+- Phone: +95 9650023587
+- Email: aungzayyanaing2@gmail.com
 - Digital Product Myanmar: https://digital-product-myanmar-v2.vercel.app/
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=fadeIn)
