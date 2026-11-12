@@ -100,13 +100,13 @@ I build web shops, Telegram bots and tools for Myanmar. If you like what I build
 
 ## 3D Contributions
 
-![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-3d-contrib/profile-season-animate.svg)
+![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-red.svg)
 
 ---
 
 ## Dragon & Fortune
 
-![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune.png)
+![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune-animated.svg)
 
 ---
 
