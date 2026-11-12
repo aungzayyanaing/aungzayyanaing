@@ -68,6 +68,20 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 
 ---
 
+## Featured Projects on GitHub
+
+I build web shops, Telegram bots and tools for Myanmar. If you like what I build, a star on a project helps it reach more people.
+
+- [KyatScope](https://github.com/aungzayyanaing/kyatscope) — Myanmar kyat (MMK) exchange rates web app: track USD and other currency rates in kyat. ([Live demo](https://kyatscope.vercel.app))
+- [laravel-task-board](https://github.com/aungzayyanaing/laravel-task-board) — Task board built with Laravel 13 and PHP.
+- [Thomas Digital Shop](https://github.com/aungzayyanaing/Thomas-Digital-Shop) — Website for Digital Product Myanmar, a shop for digital subscriptions, AI tools and software.
+- [Thomas Digital Shop Resellers Website](https://github.com/aungzayyanaing/Thomas-Digital-Shop-Resellers-Website) — Reseller website for Thomas Digital Shop.
+- [snake-game](https://github.com/aungzayyanaing/snake-game) — Snake game in Python with tkinter.
+- [rock-paper-scissors](https://github.com/aungzayyanaing/rock-paper-scissors) — Rock Paper Scissors game in JavaScript, HTML and CSS.
+- [daily-log](https://github.com/aungzayyanaing/daily-log) — Daily log, one entry a day.
+
+---
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungzayyanaing&show_icons=true&title_color=FBBF24&icon_color=EF4444&text_color=E5E7EB&bg_color=111827)
@@ -80,19 +94,19 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 
 ## Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output/github-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output/github-snake-dark.svg)
 
 ---
 
 ## 3D Contributions
 
-![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-red.svg)
+![3D Contributions](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/output-3d/profile-3d-contrib/profile-season-animate.svg)
 
 ---
 
 ## Dragon & Fortune
 
-![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-flying-v3.gif)
+![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune.png)
 
 ---
 
@@ -112,4 +126,4 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 - Email: aungzayyanaing2@gmail.com
 - Digital Product Myanmar: https://digital-product-myanmar-v2.vercel.app/
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FBBF24&animation=twinkling)
