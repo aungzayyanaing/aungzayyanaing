@@ -62,17 +62,17 @@ Digital Product Myanmar is the shop Ellis runs. It sells AI tools, VPN, streamin
 
 **What the shop sells:**
 
-- AI tools: ChatGPT, Gemini, Claude AI, Grok, Perplexity, Leonardo, Midjourney
+- AI tools: ChatGPT, Gemini, Claude AI, Grok, Perplexity, Leonardo
 - VPN: Express VPN, NordVPN, Surfshark VPN
 - Streaming and music: Netflix, YouTube Premium, Spotify, Apple Music
 - PC software: Microsoft 365, Windows 11 Pro, IDM
-- Design tools: Canva Pro, Figma Pro
-- Editing apps: CapCut Pro, KineMaster Pro, Alight Motion
-- Storage and cloud: Google One, iCloud+, OneDrive
-- Education and reading: Duolingo, Coursera, Kindle Unlimited, Scribd
+- Design tools: Canva Pro
+- Editing apps: CapCut Pro, Alight Motion
+- Storage and cloud: Google One
+- Education and reading: Duolingo, Coursera, Scribd
 - Adobe: Creative Cloud, Photoshop, Illustrator, Premiere Pro, After Effects
-- Social and communication: Telegram Premium, Facebook Star, TikTok Coin, WhatsApp Business
-- Payment accounts: PayPal, Wise, Payoneer, WebMoney
+- Social and communication: Telegram Premium, TikTok Coin
+- Payment accounts: PayPal, Wise, Payoneer
 
 **Shop sites:** [Thomas Digital Shop](https://thomasdigitalshop.vercel.app/) · [Digital Product Myanmar](https://digital-product-myanmar-v2.vercel.app/) · [Resellers site](https://thomasdigitalshopresellerwebsite.vercel.app)
 
@@ -87,11 +87,9 @@ Digital Product Myanmar is the shop Ellis runs. It sells AI tools, VPN, streamin
 - WFH Network Myanmar - online jobs for youth and a professional CV service.
 - The Entrepreneur Hub - daily business knowledge community.
 - The Quiet Zone Library - a library for book lovers, started in October 2024.
-- AungZayYaNaing — Insights - a blog with long-form articles on tech and digital content.
 - LinkedIn Basic Starter Course - a LinkedIn course.
 - FocusTeenagersAcademy - courses for teenagers.
 
----
 
 ## Featured Projects on GitHub
 
