@@ -58,7 +58,7 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 
 ## Digital Product Myanmar
 
-Digital Product Myanmar is the shop Ellis runs. It sells AI tools, VPN, streaming and software subscriptions in Myanmar, with prices in Myanmar kyat.
+Digital Product Myanmar is the shop Thomas runs. It sells AI tools, VPN, streaming and software subscriptions in Myanmar, with prices in Myanmar kyat.
 
 **What the shop sells:**
 
