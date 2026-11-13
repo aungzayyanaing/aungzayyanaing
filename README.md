@@ -107,11 +107,9 @@ I build web shops and tools for Myanmar. If you like what I build, a star on a p
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungzayyanaing&show_icons=true&title_color=FBBF24&icon_color=EF4444&text_color=E5E7EB&bg_color=111827)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aungzayyanaing&background=111827&ring=EF4444&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E5E7EB&stroke=111827)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aungzayyanaing&layout=compact&title_color=FBBF24&text_color=E5E7EB&bg_color=111827)
 
 ---
 
