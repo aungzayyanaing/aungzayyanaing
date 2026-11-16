@@ -1,10 +1,19 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Aung%20Zay%20Ya%20Naing&fontSize=42&fontColor=FBBF24&animation=fadeIn&fontAlignY=35)
 
-# Hi, I'm Aung Zay Ya Naing - Thomas
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Creating+digital+opportunities+for+Myanmar;Entrepreneur+in+Digital+Products%2C+Education+and+AI;Python+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Founder+%40+Digital+Product+Myanmar;Building+AI+tools%2C+Telegram+bots+%26+learning+communities;Creating+digital+opportunities+for+Myanmar;Python+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=aungzayyanaing&color=FBBF24&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/aungzayyanaing?style=flat-square&color=FBBF24&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/aungzayyanaing?style=flat-square&color=FBBF24&label=Stars)
 
 **Portfolio: https://aung-zay-ya-naing.vercel.app/**
+
+🔭 **Currently building:** MinNwe AI · Yaung Htwet shop-order bot · The Quiet Zone Library → 100,000 books
+📚 **Learning:** AI tools, automation & human psychology — every day
+
+</div>
 
 Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from Myanmar. Creating digital opportunities for Myanmar. He is the founder of Digital Product Myanmar, where he sells AI tools, VPN, streaming and software subscriptions.
 
@@ -25,15 +34,16 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 ## What I Do
 
 - Digital Product Seller - AI tools, VPN, streaming, software and subscriptions at a fair price with full warranty. Prices are in Myanmar kyat; orders are completed through Telegram.
+- Telegram Bot Builder - custom Telegram bots for shops, communities and learning: job bots, sale-proof posters, shop-order bots with Mini Apps, and AI companions.
 - Course Tutor - practical, easy-to-understand courses.
 - CV Form Service - professional CVs that raise job chances.
 - Collaboration - open to collaborate with brands, projects, and businesses.
 
 ---
 
-## Skills
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,js,php,laravel,html,css,tailwind,supabase,vercel,git)](https://skillicons.dev)
 
 - Digital Marketing
 - AI Tools and Automation
@@ -53,6 +63,22 @@ Aung Zay Ya Naing, also known as Thomas / Thomas Ryson, is an entrepreneur from 
 - 2025-present: Founder, WFH Network Myanmar - online jobs for youth and a professional CV service.
 - 2024-present: Course Tutor, Thomas Online Business Centre - practical teaching for many people.
 - 2026-present: Founder, MinNwe AI - his own AI SaaS platform, built and launched.
+- 2026-present: Builder, Yaung Htwet - Telegram shop-order bot + Mini App template for shop owners.
+
+---
+
+## My Ventures
+
+| Venture | What it is | Link |
+|---|---|---|
+| Digital Product Myanmar | AI tools, VPN, streaming & software subscriptions in Myanmar kyat | [Shop](https://digital-product-myanmar-v2.vercel.app/) · [Thomas Digital Shop](https://thomasdigitalshop.vercel.app/) |
+| MinNwe AI | His own AI SaaS platform — Gemini tools on coin plans | — |
+| WFH Network Myanmar | Online jobs for Myanmar youth + professional CV service | [Bot](https://t.me/WFHNetwork_bot) |
+| The Quiet Zone Library | Book library — 11,600+ books and growing toward 100,000 | [Website](https://quiet-zone-library.vercel.app/) · [Channel](https://t.me/TheQuietZoneLibrary) |
+| The Entrepreneur Hub | Daily business knowledge — 10 posts a day | [Channel](https://t.me/MarketingKnowledgeMyanmar) |
+| FocusTeenagersAcademy | Practical courses for teenagers | [Website](https://focus-teenager-academy.vercel.app/) |
+| LinkedIn Basic Starter Course | LinkedIn course — 30 modules · 222 lessons · 4,034 tips | — |
+| Yaung Htwet · Shop Order Bot | Telegram shop bot + Mini App template for shop owners | [Bot](https://t.me/YaungHtwet_Bot) |
 
 ---
 
@@ -80,17 +106,6 @@ Digital Product Myanmar is the shop Thomas runs. It sells AI tools, VPN, streami
 
 ---
 
-## My Ventures / Projects
-
-- Digital Product Myanmar - AI tools, VPN, streaming, software and subscriptions with trusted service.
-- MinNwe AI - his own AI SaaS platform, built and launched in 2026.
-- WFH Network Myanmar - online jobs for youth and a professional CV service.
-- The Entrepreneur Hub - daily business knowledge community.
-- The Quiet Zone Library - a library for book lovers, started in October 2024.
-- LinkedIn Basic Starter Course - a LinkedIn course.
-- FocusTeenagersAcademy - courses for teenagers.
-
-
 ## Featured Projects on GitHub
 
 I build web shops and tools for Myanmar. If you like what I build, a star on a project helps it reach more people.
@@ -107,9 +122,12 @@ I build web shops and tools for Myanmar. If you like what I build, a star on a p
 
 ## GitHub Stats
 
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aungzayyanaing&theme=github_dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aungzayyanaing&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aungzayyanaing&background=111827&ring=EF4444&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E5E7EB&stroke=111827)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aungzayyanaing&bg_color=0d1117&color=E5E7EB&line=FBBF24&point=EF4444&area=true&hide_border=true)
 
 ---
 
