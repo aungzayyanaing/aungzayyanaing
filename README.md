@@ -95,7 +95,7 @@ Digital Product Myanmar is the shop Thomas runs. It sells AI tools, VPN, streami
 
 I build web shops and tools for Myanmar. If you like what I build, a star on a project helps it reach more people.
 
-- [KyatScope](https://github.com/aungzayyanaing/kyatscope) — Myanmar kyat (MMK) exchange rates for 103 currencies: market and bank rates, a converter and charts, plus live crypto and US stocks. ([Live demo](https://kyatscope.vercel.app))
+- [KyatScope](https://github.com/aungzayyanaing/kyatscope) — Myanmar kyat (MMK) exchange rates for 103 currencies: market and bank rates, a converter, charts and a calculator, plus live crypto (201) and US stocks (237) — in Burmese, with no account needed. ([Live demo](https://kyatscope.vercel.app))
 - [laravel-task-board](https://github.com/aungzayyanaing/laravel-task-board) — Add tasks and move them between To do, Doing and Done. Laravel 13, PHP 8.3, SQLite and plain CSS, with no accounts and no JavaScript build step.
 - [Thomas Digital Shop](https://github.com/aungzayyanaing/Thomas-Digital-Shop) — Single-page storefront for Digital Product Myanmar: digital subscriptions, AI tools and software, with prices in Myanmar kyat and orders completed through Telegram. ([Live site](https://thomasdigitalshop.vercel.app/))
 - [Thomas Digital Shop Resellers Website](https://github.com/aungzayyanaing/Thomas-Digital-Shop-Resellers-Website) — Reseller website for Thomas Digital Shop, with the same catalog, prices in kyat and a cart; orders are completed through Telegram. ([Live site](https://thomasdigitalshopresellerwebsite.vercel.app))
