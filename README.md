@@ -143,10 +143,6 @@ I build web shops and tools for Myanmar. If you like what I build, a star on a p
 
 ---
 
-## Dragon & Fortune
-
-![Dragon and Fortune](https://raw.githubusercontent.com/aungzayyanaing/aungzayyanaing/main/assets/dragon-fortune-animated.svg)
-
 ---
 
 ## Connect
