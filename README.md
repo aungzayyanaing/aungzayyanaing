@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Founder+%40+Digital+Product+Myanmar;Building+AI+tools%2C+Telegram+bots+%26+learning+communities;Creating+digital+opportunities+for+Myanmar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Founder+of+Digital+Product+Myanmar;Building+AI+tools%2C+Telegram+bots+%26+learning+communities;Creating+digital+opportunities+for+Myanmar)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=aungzayyanaing&color=FBBF24&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/aungzayyanaing?style=flat-square&color=FBBF24&label=Followers)
